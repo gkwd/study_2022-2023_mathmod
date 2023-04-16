@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа №4"
 subtitle: "Модель гармонических колебаний"
-author: "Ильин Андрей Владимирович"
+author: Ибрагимов Улугбек Ботырхонович
 
 ## Generic otions
 lang: ru-RU

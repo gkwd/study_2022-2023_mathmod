@@ -41,17 +41,15 @@ header-includes:
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
--   Ильин Андрей Владимирович
--   НФИбд-01-20
--   1032201656
+-   Ибрагимов Улугбек Ботырхонович
+-   НФИбд-02-20
+-   1032204510
 -   Российский Университет Дружбы Народов
--   [1032201656@pfur.ru](mailto:1032201656@pfur.ru)
--   <https://github.com/av-ilin>
+-   [1032204510@pfur.ru](mailto:1032204510@pfur.ru)
+-   <https://github.com/gkwd>
 
 :::
 ::: {.column width="30%"}
-
-![](./image/avilin.jpg)
 
 :::
 ::::::::::::::
